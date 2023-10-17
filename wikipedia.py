@@ -75,4 +75,4 @@ def search(query):
             continue
 
 
-print(search("drugs"))
+print(search("Wikipedia"))
