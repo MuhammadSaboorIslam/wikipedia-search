@@ -34,6 +34,5 @@
 
   >> Unable to find information on 'abccdedhnesvi'. Recheck spellings
 
-  That is for now :)
-
+  That is for now 🥸
   
