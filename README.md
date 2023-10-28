@@ -2,7 +2,7 @@
 
   ## Search 👀 
 
-  Searches for a particular word on wikipedia  
+  Searches for a particular word on wikipedia
   
   >> print(search("wikipedia"))
 
